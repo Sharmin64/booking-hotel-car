@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co/jTn73Zg/new-y0rk-a.jpg",
+    "name": "Luxury Hotel New York",
+    "location": "New York",
+    "roomNumber": 100,
+    "bedNumber": 200,
+    "bath": 100,
+    "squareFeet": 5000
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co/Dpfqc4n/mum-e.jpg",
+    "name": "Mumbai Seaview Hotel",
+    "location": "Mumbai",
+    "roomNumber": 80,
+    "bedNumber": 160,
+    "bath": 80,
+    "squareFeet": 4500
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co/rtCKqvh/paris-a.jpg",
+    "name": "Eiffel Tower Suite",
+    "location": "Paris",
+    "roomNumber": 50,
+    "bedNumber": 100,
+    "bath": 50,
+    "squareFeet": 3500
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co/K6fpqx5/hotel-b.jpg",
+    "name": "London Grand Hotel",
+    "location": "London",
+    "roomNumber": 120,
+    "bedNumber": 240,
+    "bath": 120,
+    "squareFeet": 5500
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co/hm2wDGf/new-york-b.jpg",
+    "name": "Ritz-Carlton New York",
+    "location": "New York",
+    "roomNumber": 90,
+    "bedNumber": 180,
+    "bath": 90,
+    "squareFeet": 4800
+  },
+  {
+    "id": 6,
+    "image": "https://i.ibb.co/Y7cBCck/mum-d.jpg",
+    "name": "Taj Mahal Palace",
+    "location": "Mumbai",
+    "roomNumber": 75,
+    "bedNumber": 150,
+    "bath": 75,
+    "squareFeet": 4200
+  },
+  {
+    "id": 7,
+    "image": "https://i.ibb.co/SwH3Dmr/paris-b.jpg",
+    "name": "Le Meurice",
+    "location": "Paris",
+    "roomNumber": 45,
+    "bedNumber": 90,
+    "bath": 45,
+    "squareFeet": 3300
+  },
+  {
+    "id": 8,
+    "image": "https://i.ibb.co/h9YjQRH/paris-e.jpg",
+    "name": "The Langham, London",
+    "location": "London",
+    "roomNumber": 110,
+    "bedNumber": 220,
+    "bath": 110,
+    "squareFeet": 5200
+  },
+  {
+    "id": 9,
+    "image": "https://i.ibb.co/9bW4ykN/york-c.jpg",
+    "name": "New York Central Suites",
+    "location": "New York",
+    "roomNumber": 85,
+    "bedNumber": 170,
+    "bath": 85,
+    "squareFeet": 4600
+  },
+  {
+    "id": 10,
+    "image": "https://i.ibb.co/1Zp9gbp/mum-c.jpg",
+    "name": "Mumbai Skyline Hotel",
+    "location": "Mumbai",
+    "roomNumber": 70,
+    "bedNumber": 140,
+    "bath": 70,
+    "squareFeet": 4000
+  },
+  {
+    "id": 11,
+    "image": "https://i.ibb.co/h9YjQRH/paris-e.jpg",
+    "name": "Eiffel Elegance Hotel",
+    "location": "Paris",
+    "roomNumber": 40,
+    "bedNumber": 80,
+    "bath": 40,
+    "squareFeet": 3000
+  },
+  {
+    "id": 12,
+    "image": "https://i.ibb.co/zG5cjMz/hotel-c.jpg",
+    "name": "The Royal London",
+    "location": "London",
+    "roomNumber": 100,
+    "bedNumber": 200,
+    "bath": 100,
+    "squareFeet": 5000
+  },
+  {
+    "id": 13,
+    "image": "https://i.ibb.co/YNSVT0G/york-fd.jpg",
+    "name": "New York Harbor View",
+    "location": "New York",
+    "roomNumber": 95,
+    "bedNumber": 190,
+    "bath": 95,
+    "squareFeet": 4900
+  },
+  {
+    "id": 14,
+    "image": "https://i.ibb.co/zffnBgC/mum-b.jpg",
+    "name": "Mumbai Beachfront Hotel",
+    "location": "Mumbai",
+    "roomNumber": 80,
+    "bedNumber": 160,
+    "bath": 80,
+    "squareFeet": 4500
+  },
+  {
+    "id": 15,
+    "image": "https://i.ibb.co/L53qpvg/paris-d.jpg",
+    "name": "Champs-Élysées Palace",
+    "location": "Paris",
+    "roomNumber": 50,
+    "bedNumber": 100,
+    "bath": 50,
+    "squareFeet": 3500
+  },
+  {
+    "id": 16,
+    "image": "https://i.ibb.co/XbD3JdM/hotel-d.jpg",
+    "name": "The Shard Hotel, London",
+    "location": "London",
+    "roomNumber": 120,
+    "bedNumber": 240,
+    "bath": 120,
+    "squareFeet": 5500
+  },
+  {
+    "id": 17,
+    "image": "https://i.ibb.co/2gkTGN6/york-e.jpg",
+    "name": "Grand Central Suites",
+    "location": "New York",
+    "roomNumber": 90,
+    "bedNumber": 180,
+    "bath": 90,
+    "squareFeet": 4800
+  },
+  {
+    "id": 18,
+    "image": "https://i.ibb.co/68TnYr7/mum-a.jpg",
+    "name": "Marine Drive Hotel, Mumbai",
+    "location": "Mumbai",
+    "roomNumber": 75,
+    "bedNumber": 150,
+    "bath": 75,
+    "squareFeet": 4200
+  },
+  {
+    "id": 19,
+    "image": "https://i.ibb.co/L10Gcv0/paris-c.jpg",
+    "name": "Louvre Luxury Hotel",
+    "location": "Paris",
+    "roomNumber": 45,
+    "bedNumber": 90,
+    "bath": 45,
+    "squareFeet": 3300
+  },
+  {
+    "id": 20,
+    "image": "https://i.ibb.co/Zfw0sdz/hotel-e.jpg",
+    "name": "Westminster Palace Hotel, London",
+    "location": "London",
+    "roomNumber": 110,
+    "bedNumber": 220,
+    "bath": 110,
+    "squareFeet": 5200
+  }
+]
