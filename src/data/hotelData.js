@@ -1,4 +1,4 @@
-[
+const hotelData= [
   {
     "id": 1,
     "image": "https://i.ibb.co/jTn73Zg/new-y0rk-a.jpg",
