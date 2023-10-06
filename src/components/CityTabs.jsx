@@ -1,32 +1,40 @@
-import React from "react";
-import {Tab, TabList, TabPanel, Tabs} from "react-tabs";
-import "react-tabs/style/react-tabs.css";
+//import React, {useState} from "react";
+//import {Tab, TabList, TabPanel, Tabs} from "react-tabs";
+//import "react-tabs/style/react-tabs.css";
+//import HotelCard from "./HotelCard";
 
-const CityTabs = () => {
-  return (
-    <div>
-      <Tabs>
-        <TabList>
-          <Tab>New York</Tab>
-          <Tab>Mumbai</Tab>
-          <Tab>Paris</Tab>
-          <Tab>London</Tab>
-        </TabList>
-        <TabPanel>
-          <h2>card render hob e</h2>
-        </TabPanel>
-        <TabPanel>
-          <h2>Mumbaiwill re3nder here </h2>
-        </TabPanel>
-        <TabPanel>
-          <h2>Paris will render here</h2>
-        </TabPanel>
-        <TabPanel>
-          <h2>London will render here</h2>
-        </TabPanel>
-      </Tabs>
-    </div>
-  );
-};
+//const CityTabs = ({cities, activeCity, hotels}) => {
+//  const initialIndex = cities.indexOf(city.toLowerCase());
+//  const [tabIndex, setTabIndex] = useState(initialIndex);
+//  const NewYorkCity = hotels.filter((hotel) => hotel.city === "New York");
+//  const LondonCity = hotels.filter((hotel) => hotel.city === "London");
+//  const ParisCity = hotels.filter((hotel) => hotel.city === "Paris");
+//  const MumbaiCity = hotels.filter((hotel) => hotel.city === "Mumbai");
 
-export default CityTabs;
+//  return (
+//    <div>
+//      <Tabs defaultIndex={tabIndex} onTabClick={(index) => setTabIndex(index)}>
+//        <TabList>
+//          <Tab>New York</Tab>
+//          <Tab>London</Tab>
+//          <Tab>Paris</Tab>
+//          <Tab>Mumbai</Tab>
+//        </TabList>
+//        <TabPanel>
+//          <HotelCard hotels={NewYorkCity} />
+//        </TabPanel>
+//        <TabPanel>
+//          <HotelCard hotels={LondonCity} />
+//        </TabPanel>
+//        <TabPanel>
+//          <HotelCard hotels={ParisCity} />
+//        </TabPanel>
+//        <TabPanel>
+//          <HotelCard hotels={MumbaiCity} />
+//        </TabPanel>
+//      </Tabs>
+//    </div>
+//  );
+//};
+
+//export default CityTabs;

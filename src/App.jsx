@@ -1,13 +1,13 @@
-import CityTabs from "./components/CityTabs";
-import Hotel from "./components/Hotel";
+//import CityTabs from "./components/CityTabs";
+import HotelList from "./components/HotelList";
 
 function App() {
   return (
     <>
       <div>
-        <CityTabs />
+        {/*<CityTabs />*/}
         <div className="max-w-screen">
-          <Hotel />
+          <HotelList />
         </div>
       </div>
     </>
